@@ -1,6 +1,6 @@
 # Extract-and-Load-Flat-files-using-SQL-Server-Integration-Services
 
-In this project Mutilple flat files where extracted from one source and loaded into SSMS Database tabele using sql Server Integration Services.
+In this project Mutilple flat files where extracted from one source and loaded into SSMS Database tabele using sql Server Integration Services. the flat files had the following columns  `CustomerID`,`FristName`,`LastName` `City`,`Counttry`. A user variable was create to hold the fiees in the flat files coneection manager. 
 
 A drived Column was added to generate Extra information about the source files in the database table such as the dateTime as well as the files Path.
 
