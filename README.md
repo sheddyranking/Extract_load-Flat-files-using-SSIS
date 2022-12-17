@@ -2,7 +2,7 @@
 
 In this project Mutilple flat files where extracted from one source and loaded into SSMS Database tabele using sql Server Integration Services. the flat files had the following columns  `CustomerID`,`FristName`,`LastName` `City`,`Counttry`. A user variable was create to hold the fiees in the flat files coneection manager. 
 
-A drived Column was added to generate Extra information about the source files in the database table such as the dateTime as well as the files Path.
+A drived Column was added to generate Extra information about the source files in the database table such as the `CurrentDate` as well as the `filesPath`.
 
 ## Drived Columns 
 ![Screenshot (371)](https://user-images.githubusercontent.com/42388234/208249843-e1dc26de-7c76-4222-99f4-2a137e3a568d.png)
